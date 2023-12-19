@@ -26,7 +26,7 @@
     </sets>
     <offers>
       <offer id="123456python">
-        <name>Курсы для HR и T&Dх</name>
+        <name>Курсы для HR и TDх</name>
         <url>https://headream.tech/talent_development/</url>
         <categoryId>208</categoryId><!--Обязательная ссылка на категорию-->
         <set-ids>s2,s3</set-ids><!--Можно указать несколько наборов через запятую-->
