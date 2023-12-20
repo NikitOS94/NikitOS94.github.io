@@ -96,7 +96,7 @@
         <param name="Тип обучения">Курс</param><!--Возможные значения - "Курс" или "Профессия"-->
         <param name="Результат обучения">Сертификат</param><!--Возможные значения - "Сертификат", "Диплом", "Удостоверение"-->
         <!--Описание курса-->
-        <picture>https://cdn-ru.bitrix24.ru/b26783408/landing/877/8775abc103f0d9eb1676ee3c7789bd80/glavnye_trendy_kareva_elena_kopiya_page_0001_2x_1x.jpg</picture>
+        <picture>https://nikitos94.github.io/logo.jpg</picture>
         <description>Лучший курс по оценке и развитию персонала</description>
       </offer>
     </offers>
