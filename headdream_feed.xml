@@ -11,17 +11,13 @@
     </currencies>
     <!--Наборы курсов, на которые будет ссылка в описании курса-->
     <sets>
-      <set id="s2">
+      <set id="c1">
         <name>Курсы для менеджеров по оценке и развитию персонала</name>
-        <url>https://courses.sample.s3.yandex.net/list/Development</url>
+        <url>https://headream.tech/talent_development</url>
       </set>
-      <set id="s3">
+      <set id="c2">
         <name>Курсы по оценке и развитию персонала</name>
-        <url>https://courses.sample.s3.yandex.net/list/Python</url>
-      </set>
-      <set id="s5">
-        <name>Курсы по оценке и развитию персонала</name>
-        <url>https://courses.sample.s3.yandex.net/list/english</url>
+        <url>https://headream.tech/talent_development</url>
       </set>
     </sets>
     <offers>
@@ -29,7 +25,7 @@
         <name>Курсы для HR и T&amp;Dх</name>
         <url>https://headream.tech/talent_development/</url>
         <categoryId>208</categoryId><!--Обязательная ссылка на категорию-->
-        <set-ids>s2,s3</set-ids><!--Можно указать несколько наборов через запятую-->
+        <set-ids>c1,c2</set-ids><!--Можно указать несколько наборов через запятую-->
         <!--Общая цена курса-->
         <price>58 500</price>
         <currencyId>RUR</currencyId>
