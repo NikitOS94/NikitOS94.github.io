@@ -12,10 +12,6 @@
     <!--Наборы курсов, на которые будет ссылка в описании курса-->
     <sets>
       <set id="c1">
-        <name>Курсы для менеджеров по оценке и развитию персонала</name>
-        <url>https://headream.tech/talent_development</url>
-      </set>
-      <set id="c2">
         <name>Курсы по оценке и развитию персонала</name>
         <url>https://headream.tech/talent_development</url>
       </set>
