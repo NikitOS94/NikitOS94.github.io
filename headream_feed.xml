@@ -17,7 +17,7 @@
       </set>
     </sets>
     <offers>
-      <offer id="123456hr">
+      <offer id="hr_andp_1">
         <name>Курс по оценке и развитию персонала</name>
         <url>https://headream.tech/talent_development</url>
         <categoryId>208</categoryId><!--Обязательная ссылка на категорию-->
